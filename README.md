@@ -30,7 +30,7 @@ A página mostra três formas, um **círculo**, um **retângulo** e um **triâng
 
 Não há dependências nem etapa de build.
 
-1. Baixe ou clone o repositório.
+1. Baixe ou clone o repositório ou entre no [link](https://tesma.github.io/aula-canva-html/).
 2. Abra o arquivo `index.html` em qualquer navegador moderno.
 
 ## Tecnologias
