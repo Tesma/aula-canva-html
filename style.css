@@ -1,0 +1,32 @@
+html, body { margin: 0; height: 100%; overflow: hidden; }
+
+body {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    font-family: Arial, sans-serif;
+}
+
+#titulo {
+    position: fixed;
+    transform: translateX(-50%);
+    text-align: center;
+    top: 10%;
+    left: 50%;
+    border: 2px, solid rgba(0, 0, 0, 0.75);
+    border-radius: 25px;
+    padding: 10px;
+}
+
+h3 {
+    color: gray;
+    font-weight: 100;
+}
+
+#creditos {
+    position: fixed;
+    top: 100%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-250%);
+}
